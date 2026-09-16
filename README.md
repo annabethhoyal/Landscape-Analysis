@@ -3,5 +3,5 @@ The purpose of this project is to survey and compare existing work on physical m
 
 # Visual Aid
 This waterfall diagram illustrates our sequential approach through the 3 categories of our research.
-![Diagram](LandscapeAnalysisVisualAid.jpg)
+![Diagram](VisualAid.jpg)
 
